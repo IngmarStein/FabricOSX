@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name         = "Fabric"
+  spec.name         = "FabricOSX"
   spec.version      = "1.2.3"
   spec.summary      = "Fabric by Twitter, Inc."
   spec.homepage     = "https://fabric.io"
