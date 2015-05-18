@@ -3,8 +3,8 @@ Fabric
 This repository contains a CocoaPod for Fabric (https://fabric.io) for OS X.
 
 ### Current versions:
-* Fabric.framework v1.2.3
-* Crashlytics.framework v3.0.6
+* Fabric.framework v1.2.4
+* Crashlytics.framework v3.0.8
 
 ## Installing
 1. Use Fabric Mac app to configure the components you need (required for this pod to work).
@@ -12,8 +12,8 @@ This repository contains a CocoaPod for Fabric (https://fabric.io) for OS X.
 3. Add pods to Podfile
 
 ```ruby
-pod 'Fabric', '~> 1.2.3' # required
-pod 'Fabric/Crashlytics', '~> 1.2.3'
+pod 'Fabric', '~> 1.2.4' # required
+pod 'Fabric/Crashlytics', '~> 1.2.4'
 ```
 
   Then run `pod install`.
