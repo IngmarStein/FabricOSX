@@ -5,7 +5,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = "https://fabric.io"
   spec.author       = "Twitter"
   spec.license      = { :type => "Copyright", :file => "LICENSE.md" } # from http://fabric.io/terms
-  spec.platform     = :osx, "10.10"
+  spec.platform     = :osx, "10.8"
   spec.source       = { :git => "https://github.com/IngmarStein/FabricOSX.git", :tag => "#{spec.version}" }
   spec.requires_arc = true
   spec.default_subspec = "Core"
